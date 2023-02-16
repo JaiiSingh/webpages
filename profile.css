@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+#dp{
+   height: 120px;
+   border-radius: 50%;
+   padding: 2px;
+   margin-top: 10px;
+   margin-left: 10px;
+}
+#NameRule{
+    border-color: rgba(53, 103, 201, 0.81);
+    background-color: rgb(166, 216, 220);
+    align-self: center;
+}
+#topheading{
+    background-color: rgba(55, 108, 127, 0.136);
+    padding: 0px;
+}
+
+td{
+    padding-left: 10px;
+}
+
+hr{
+    background-color: crimson;
+    height: 1px;
+}
+#Contact{
+   width: 25%;
+}
+#NameTable{
+    width: 75%;
+    margin: 0px;
+}
